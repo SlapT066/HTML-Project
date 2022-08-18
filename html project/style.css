@@ -1,0 +1,15 @@
+.menu-container {
+  background-color: white;
+  color: black;
+}
+
+.menu {
+  background-color: blue;
+  border: 10px solid black;
+  width: 500px;
+  height: 700px;
+  color: white;
+  font-size: 25px;
+  display: grid;
+  place-content: center;
+}
